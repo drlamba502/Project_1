@@ -1,5 +1,5 @@
 # Risk Factors Of Heart Attack
-![](images/Heart-Attack-Risk-Factors.jpg)
+![](readme_image2.jpg)
 
 ### Team Members:
 * Yannick Kalukuta [yanowen](https://github.com/Yanrice)
